@@ -4,5 +4,5 @@ This is my **Survey Form Project** built for the [FreeCodeCamp Responsive Web De
 The goal of this project is to practice building accessible, responsive web forms using **HTML** and **CSS**.
 
 ## 🌐 Demo
-👉 [Live Demo on GitHub Pages](https://raker8f.github.io/Survey_Form/)  
-👉 [Source Code](https://github.com/raker8f/Survey_Form)
+👉 [Live Demo on GitHub Pages](https://raker8f.github.io/survey-form/)  
+👉 [Source Code](https://github.com/raker8f/survey-form)
